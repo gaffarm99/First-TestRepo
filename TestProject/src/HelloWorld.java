@@ -12,7 +12,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		HelloWorld hello = new HelloWorld();
 		System.out.println("hhdkjfhkdfjd");
-		hello.ConverttoUpperCase("hello world!");
+		hello.ConverttoUpperCase("hello world! Updated");
 
 	}
 
