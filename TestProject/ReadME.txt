@@ -1,0 +1,1 @@
+Read Me Text for git test to submit file from GIT Hu window tool
